@@ -1,4 +1,4 @@
-# Repositório referente a Disciplina de Certificadora de Competência 1
+# Certificadora de Competência 1
 ## Nome do Projeto: QuimiStock
 ### O seu estoque químico inteligente ;)
 
