@@ -2,6 +2,7 @@
 ## Nome do Projeto: QuimiStock
 ### O seu estoque químico inteligente ;)
 
+
 ## Colaboradores
 ### Eduardo Mestre
 - Desenvolvedor e Mestre 😉
