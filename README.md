@@ -32,3 +32,25 @@
 
 **Atribuições:** Desenvolvimento da Funcionalidade de Cadastro de Produtos e Gerenciamento de Estoque (Entrada e Saída)
 
+
+## Telas (Protótipos)
+### Tela 1.A - Visualização de Relatórios - Inicio
+[img=https://github.com/victortamay/CertificadoraDaCompet-ncia1/blob/main/prototypes/Tela%201.A%20-%20Visualiza%C3%A7%C3%A3o%20de%20Relat%C3%B3rios%20-%20%5BInicio%5D.png?raw=true]
+
+### Tela 1.B - Movimentações - Inicio
+
+
+### Tela 2 - Visualização dos Usuários - Equipe
+
+
+### Tela 3 - Cadastrar Usuários - Equipe
+
+
+### Tela 4 - Visualização do Estoque - Estoque
+
+
+### Tela 5 - Cadastro de Produtos - Estoque
+
+
+### Tela 6 - Ajustes do usuário - Ajustes
+
