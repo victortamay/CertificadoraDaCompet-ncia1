@@ -1,6 +1,7 @@
 # Certificadora de Competência 1
 ## Nome do Projeto: QuimiStock
 ### O seu estoque químico inteligente ;)
+### Acesse o protótipo de alta fidelidade [clicando aqui](https://preview--stocksy-mobile.lovable.app/).
 
 
 ## Colaboradores
@@ -33,7 +34,7 @@
 **Atribuições:** Desenvolvimento da Funcionalidade de Cadastro de Produtos e Gerenciamento de Estoque (Entrada e Saída)
 
 
-## Telas (Protótipos)
+## Telas (Protótipos de baixa fidelidade)
 ### Tela 1.A - Visualização de Relatórios - Inicio
 ![Visualização de Relatórios](https://github.com/victortamay/CertificadoraDaCompet-ncia1/blob/main/prototypes/Tela%201.A%20-%20Visualiza%C3%A7%C3%A3o%20de%20Relat%C3%B3rios%20-%20%5BInicio%5D.png?raw=true)
 
