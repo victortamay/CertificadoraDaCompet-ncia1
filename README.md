@@ -6,13 +6,13 @@
 
 ## Colaboradores
 ### Eduardo Mestre
-- Desenvolvedor e Mestre 😉
+- Desenvolvedor 
 
 **Atribuições:** Desenvolvimento de Relatórios e Interface de Administração e Controle de Permissões
 
 
 ### Henrique Menck
-- Desenvolvedor e Primo do Vitor Menck 👪
+- Desenvolvedor 
 
 **Atribuições:** Desenvolvimento de Funcionalidade para Movimentação de Estoque e Controle de Alertas e Reposição
 
